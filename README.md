@@ -1,6 +1,6 @@
 **Purpose**
 
-This project consisted in determining If the treatment for kyphosis really, threw a predictive model based on decision tree/random forest
+This project consisted in determining If the treatment for kyphosis really is effective or not, threw a predictive model based on decision tree/random forest
 
 **Technologies:**
 
